@@ -16,3 +16,10 @@ python train.py ^GSPC 10 1000`
 ```
 python evaluate.py ^GSPC_2011 model_ep1000
 ```
+## Tutorial 
+Jupyter Notebook for stock prediction.
+
+## References 
+[Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/) - Q-learning overview and Agent skeleton code
+
+[Siraj Raval-School of AI](https://www.theschool.ai/courses/move-37-course/)
