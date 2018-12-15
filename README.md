@@ -1,6 +1,6 @@
 # StockPrediction
 
-# 1. For Yahoo Finance using Reinforcement Learning
+# 1. Yahoo Finance using Reinforcement Learning
 Stock Prediction by Reinforcement Learning.
 
 It's implementation of Q-learning applied to (short-term) stock trading. 
