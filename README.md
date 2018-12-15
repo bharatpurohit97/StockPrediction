@@ -29,3 +29,6 @@ Jupyter Notebook for stock prediction.
 
 
 # 2. Google Stock Prediction Using Recurrent Neural Network
+
+- Google Stock Prediction Using Recurrent Neural Network
+- see plot in RNN-GoogleStock
