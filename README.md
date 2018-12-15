@@ -1,4 +1,6 @@
 # StockPrediction
+
+# 1. For Yahoo Finance using Reinforcement Learning
 Stock Prediction by Reinforcement Learning.
 
 It's implementation of Q-learning applied to (short-term) stock trading. 
@@ -9,6 +11,7 @@ As a result of the short-term state representation, the model is not very good a
 
 - To train the model :   
 ```
+cd ReinforcementLearning-YahooFinance
 mkdir models
 python train.py ^GSPC 10 1000`
 ```
@@ -23,3 +26,6 @@ Jupyter Notebook for stock prediction.
 [Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/) - Q-learning overview and Agent skeleton code
 
 [Siraj Raval-School of AI](https://www.theschool.ai/courses/move-37-course/)
+
+
+# 2. Google Stock Prediction Using Recurrent Neural Network
